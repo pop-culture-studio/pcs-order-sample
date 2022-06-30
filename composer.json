@@ -62,11 +62,11 @@
             "@php artisan key:generate --ansi"
         ],
         "vercel": [
-            "npm ci",
-            "npm run prod",
             "@php artisan config:cache",
             "@php artisan route:cache",
-            "@php artisan view:cache"
+            "@php artisan view:cache",
+            "npm ci",
+            "npm run build"
         ],
         "sail:up": "vendor/bin/sail up -d",
         "sail:down": "vendor/bin/sail down"
