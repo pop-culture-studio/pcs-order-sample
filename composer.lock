@@ -2905,16 +2905,16 @@
         },
         {
             "name": "psy/psysh",
-            "version": "v0.11.5",
+            "version": "v0.11.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/bobthecow/psysh.git",
-                "reference": "c23686f9c48ca202710dbb967df8385a952a2daf"
+                "reference": "3f5b5f8aaa979fbd0d1783173f4c82ad529fe621"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/bobthecow/psysh/zipball/c23686f9c48ca202710dbb967df8385a952a2daf",
-                "reference": "c23686f9c48ca202710dbb967df8385a952a2daf",
+                "url": "https://api.github.com/repos/bobthecow/psysh/zipball/3f5b5f8aaa979fbd0d1783173f4c82ad529fe621",
+                "reference": "3f5b5f8aaa979fbd0d1783173f4c82ad529fe621",
                 "shasum": ""
             },
             "require": {
@@ -2975,9 +2975,9 @@
             ],
             "support": {
                 "issues": "https://github.com/bobthecow/psysh/issues",
-                "source": "https://github.com/bobthecow/psysh/tree/v0.11.5"
+                "source": "https://github.com/bobthecow/psysh/tree/v0.11.6"
             },
-            "time": "2022-05-27T18:03:49+00:00"
+            "time": "2022-07-03T16:40:23+00:00"
         },
         {
             "name": "ralouphie/getallheaders",
@@ -3318,16 +3318,16 @@
         },
         {
             "name": "revolution/self-ordering",
-            "version": "2.1.0",
+            "version": "2.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kawax/self-ordering.git",
-                "reference": "f9b4937834cb159eda63a2f5b019663b08c1c880"
+                "reference": "3c1ebd276a0cfa5fc81a0530cc12708046a781ee"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/kawax/self-ordering/zipball/f9b4937834cb159eda63a2f5b019663b08c1c880",
-                "reference": "f9b4937834cb159eda63a2f5b019663b08c1c880",
+                "url": "https://api.github.com/repos/kawax/self-ordering/zipball/3c1ebd276a0cfa5fc81a0530cc12708046a781ee",
+                "reference": "3c1ebd276a0cfa5fc81a0530cc12708046a781ee",
                 "shasum": ""
             },
             "require": {
@@ -3373,9 +3373,9 @@
             ],
             "support": {
                 "issues": "https://github.com/kawax/self-ordering/issues",
-                "source": "https://github.com/kawax/self-ordering/tree/2.1.0"
+                "source": "https://github.com/kawax/self-ordering/tree/2.1.1"
             },
-            "time": "2022-06-29T08:16:28+00:00"
+            "time": "2022-06-30T01:31:11+00:00"
         },
         {
             "name": "symfony/console",
